@@ -1,3 +1,3 @@
 # bettertg
 
-betterdiscord/vencord for tg
+betterdiscord/vencord for ТГК
